@@ -1,4 +1,4 @@
-# Automated Pick-and-Place System Using a 4-DOF Electropneumatic Robotic Arm
+# Automated_Pick_and_Place_System_using_4_DOF_Electropneumatic_Robotic_Arm
 
 A mechatronics automation project involving the design, assembly,
 control and validation of a 4-DOF electropneumatic robotic arm
